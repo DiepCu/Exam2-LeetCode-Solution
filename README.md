@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0621-task-scheduler) |
 ## Queue
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
