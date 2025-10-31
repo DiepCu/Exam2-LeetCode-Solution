@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
