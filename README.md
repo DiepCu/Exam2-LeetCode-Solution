@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
