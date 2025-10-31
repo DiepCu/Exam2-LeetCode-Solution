@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Queue
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Two Pointers
 |  |
@@ -86,4 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
