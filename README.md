@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 ## String
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
