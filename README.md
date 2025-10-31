@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Two Pointers
 |  |
@@ -109,4 +112,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
