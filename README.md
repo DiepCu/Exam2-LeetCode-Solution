@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0560-subarray-sum-equals-k](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0220-contains-duplicate-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DiepCu/Exam2-LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
